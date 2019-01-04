@@ -4,4 +4,4 @@ NUMBER=$(($NUMBERONE + $NUMBERTWO))
 echo "$NUMBER"
 
 echo "this was run automagically"
-echo "Yay, This is git hub webhook buddy!"
+echo "Yay!, This is git hub webhook buddy!"
